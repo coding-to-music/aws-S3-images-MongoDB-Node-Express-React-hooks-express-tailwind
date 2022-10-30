@@ -1,3 +1,5 @@
+Can't save a user. Don't waste time on this. A platform to find roommates by listing your space or finding one available. 🚀 Built with React/Express/MongoDB/Tailwind.
+
 # Roomie
 
 (project created for learning)
